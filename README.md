@@ -1,10 +1,10 @@
 # Alx-pre_course
+
 ## First gitHub project
 
+Project 0\*01 learning github
 
-Project 0*01 learning github
-
-- ✨only 1 file weitten using Markdown
+- ✨only 1 file written using Markdown
 
 ## Features
 
